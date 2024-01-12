@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 144, 144);
+    color: #1b1149;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    display: block;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    width: 50%;
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+#grey {
+    background: grey;
+}
+
+#white {
+    background: #fff;
+}
+
+#blue {
+    background: blue;
+}
+
+#yellow {
+    background: yellow;
+}

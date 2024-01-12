@@ -1,0 +1,19 @@
+#start{
+    color: rgb(155, 195, 164);
+    background-color: transparent;
+    border: currentColor;
+    font-size: 30px;
+}
+#stop{
+    color: rgb(155, 195, 164);
+    background-color: transparent;
+    border: currentColor;
+    font-size: 30px;
+    margin-left: 10%;
+}
+body{
+    justify-content: left;
+}
+h1{
+    font-size: large;
+}
